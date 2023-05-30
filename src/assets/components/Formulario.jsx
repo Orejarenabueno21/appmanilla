@@ -4,7 +4,8 @@ import {collection, doc, addDoc, onSnapshot, deleteDoc, updateDoc} from 'firebas
 
 function Formulario() {
     return (
-        <div>Formulario</div>
+        <div><h1>Formulario</h1></div>
+
     )
 }
 
